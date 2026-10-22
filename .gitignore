@@ -1,0 +1,15 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Dependencies (the site itself has none, but keep local tooling out of git)
+node_modules/
+
+# Logs & OS artefacts
+*.log
+npm-debug.log*
